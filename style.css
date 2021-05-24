@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/photo5854762314417420907.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 250%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+/*
+.main {
+    width: 100%;
+}*/
+
+.ho {
+    text-align: center;
+    margin-top: 120PX;
+    font-style: verdana;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.b {
+    background-size: 20% 20%;
+}
+
+.tex {
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+}
